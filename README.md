@@ -4,7 +4,7 @@ In this project I have implemented the concept of Angular RxJs observable functi
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Navigate to https://gracious-borg-8cf74a.netlify.app. The app will automatically deploy if you change any of the source files committed to the github.
 
 ## Code scaffolding
 
