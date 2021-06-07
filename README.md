@@ -1,6 +1,6 @@
-# NgCompleteGuideUpdate
+# Angular Observable App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
+In this project I have implemented the concept of Angular RxJs observable functionality. This includes how to create custom observable, pass values, error notification, completion method, operators and end the life cycle through the ngOnDestroy. Also implemented Subject.
 
 ## Development server
 
